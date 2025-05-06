@@ -141,10 +141,10 @@ TextureImporter:
       name: bearded-idle_0
       rect:
         serializedVersion: 2
-        x: 6
+        x: 7
         y: 0
-        width: 25
-        height: 43
+        width: 23
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,10 +163,10 @@ TextureImporter:
       name: bearded-idle_1
       rect:
         serializedVersion: 2
-        x: 45
+        x: 46
         y: 0
-        width: 30
-        height: 45
+        width: 28
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: bearded-idle_2
       rect:
         serializedVersion: 2
-        x: 85
+        x: 86
         y: 0
-        width: 27
-        height: 43
+        width: 25
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +207,10 @@ TextureImporter:
       name: bearded-idle_3
       rect:
         serializedVersion: 2
-        x: 125
+        x: 126
         y: 0
-        width: 27
-        height: 43
+        width: 25
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,10 +229,10 @@ TextureImporter:
       name: bearded-idle_4
       rect:
         serializedVersion: 2
-        x: 165
+        x: 166
         y: 0
-        width: 27
-        height: 43
+        width: 25
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,7 +251,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e7436ea0135219643900d7dff77acff4
     internalID: 0
     vertices: []
     indices: 
@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bearded-idle_0: 1145270007144734111
+      bearded-idle_1: 2890065762719934041
+      bearded-idle_2: -401274066150044845
+      bearded-idle_3: -4187019501144628337
+      bearded-idle_4: 5078748104852053800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
