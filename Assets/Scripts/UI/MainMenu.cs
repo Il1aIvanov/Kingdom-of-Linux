@@ -7,4 +7,10 @@ public class MainMenu : MonoBehaviour
         // Загрузка игровой сцены
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+
+    public void CloseGame()
+    {
+        // Закрытие сцены меню
+        Application.Quit();
+    }
 }
