@@ -3,18 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Border
+  - Ladder
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - NPC
+  - Ladder
+  - Interaction
+  - Border
   - 
   - 
   - 
@@ -43,6 +45,12 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 3787631029
+    locked: 0
+  - name: Decor
+    uniqueID: 93613527
+    locked: 0
+  - name: Characters
+    uniqueID: 139473839
     locked: 0
   m_RenderingLayers:
   - Default
