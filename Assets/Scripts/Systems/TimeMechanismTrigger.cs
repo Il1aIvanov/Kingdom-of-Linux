@@ -10,7 +10,7 @@ public class TimeMechanismTrigger : MonoBehaviour, IInteractable
     {
         if (PauseController.IsGamePaused) return;
 
-        TerminalController.Instance.OpenTerminal(expectedCommand, () =>
+        TerminalController.Instance.OpenTerminalTM(expectedCommand, () =>
         {
             Debug.Log("[TimeMechanismTrigger] Command successful!");
             TimeMechanismController.Instance.ShowWinnerPanel();

@@ -1883,7 +1883,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &539798351
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2189,7 +2189,7 @@ Transform:
   m_GameObject: {fileID: 657680635}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 23.98, y: -0.25, z: -11}
+  m_LocalPosition: {x: 23.909405, y: -0.25002998, z: -11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2436,6 +2436,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   terminalPanel: {fileID: 4913375}
   commandInput: {fileID: 1501101753}
+  terminalPanelInst: {fileID: 4913375}
+  commandInputInst: {fileID: 1501101753}
+  terminalPanelTM: {fileID: 4913375}
+  commandInputTM: {fileID: 1501101753}
 --- !u!4 &738192417
 Transform:
   m_ObjectHideFlags: 0
@@ -3121,7 +3125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7048d1a0842c4a62bdb41e780cd29d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 3
+  moveSpeed: 5
 --- !u!114 &855661940
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6774,7 +6778,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3017053917670262583, guid: a5a651669865f411fb7f890ce0d1873a, type: 3}
+  m_Sprite: {fileID: 8353796772627440949, guid: 25877db35273e4eff828156606d6f040, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7127,7 +7131,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8053000477239663896, guid: e263971746f1f4e48975946d9f5e971a, type: 3}
+  m_Sprite: {fileID: -3017053917670262583, guid: a5a651669865f411fb7f890ce0d1873a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

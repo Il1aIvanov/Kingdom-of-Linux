@@ -13,7 +13,7 @@ public class InstructionTerminalTrigger : MonoBehaviour, IInteractable
 
         Debug.Log("[InstructionTerminal] Triggered TerminalPanel");
 
-        TerminalController.Instance.OpenTerminal(
+        TerminalController.Instance.OpenTerminalInst(
             "cat /Town/ClockTower/Instruction",
             () =>
             {
