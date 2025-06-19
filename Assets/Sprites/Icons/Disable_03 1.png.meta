@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: a5a651669865f411fb7f890ce0d1873a
+guid: 593a8a3796fcc0d4d8e1989c8a829007
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3017053917670262583
-    second: Ribbon_Yellow_3Slides_0
+      213: 8807964406896944260
+    second: Disable_03_0
+  - first:
+      213: 853822296559082547
+    second: Disable_03_1
+  - first:
+      213: 2837024305844744744
+    second: Disable_03_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +81,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ribbon_Yellow_3Slides_0
+      name: Disable_03_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2
-        width: 188
-        height: 62
+        x: 16
+        y: 29
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c8301962754126d0800000000000000
-      internalID: -3017053917670262583
+      spriteID: 484606326fc2c3a70800000000000000
+      internalID: 8807964406896944260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disable_03_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c56bfdad269db00800000000000000
+      internalID: 853822296559082547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disable_03_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 29
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822760133922f5720800000000000000
+      internalID: 2837024305844744744
       vertices: []
       indices: 
       edges: []
@@ -161,7 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ribbon_Yellow_3Slides_0: -3017053917670262583
+      Disable_03_0: 8807964406896944260
+      Disable_03_1: 853822296559082547
+      Disable_03_2: 2837024305844744744
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: a5a651669865f411fb7f890ce0d1873a
+guid: ebd71a94e7eef294795ef0e2177de9b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3017053917670262583
-    second: Ribbon_Yellow_3Slides_0
+      213: -1102783107653903208
+    second: Pressed_03_0
+  - first:
+      213: -3012611918682423880
+    second: Pressed_03_1
+  - first:
+      213: 7107575912540741967
+    second: Pressed_03_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +81,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ribbon_Yellow_3Slides_0
+      name: Pressed_03_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2
-        width: 188
-        height: 62
+        x: 16
+        y: 29
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c8301962754126d0800000000000000
-      internalID: -3017053917670262583
+      spriteID: 89cdcfb3b9022b0f0800000000000000
+      internalID: -1102783107653903208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pressed_03_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd73d4eb6d0136d0800000000000000
+      internalID: -3012611918682423880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pressed_03_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 29
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f412d1982ae23a260800000000000000
+      internalID: 7107575912540741967
       vertices: []
       indices: 
       edges: []
@@ -161,7 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ribbon_Yellow_3Slides_0: -3017053917670262583
+      Pressed_03_0: -1102783107653903208
+      Pressed_03_1: -3012611918682423880
+      Pressed_03_2: 7107575912540741967
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

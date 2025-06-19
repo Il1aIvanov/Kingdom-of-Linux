@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: a5a651669865f411fb7f890ce0d1873a
+guid: 59de6f0ce528780408c241700ea04902
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3017053917670262583
-    second: Ribbon_Yellow_3Slides_0
+      213: -3036944208796932403
+    second: Regular_03_0
+  - first:
+      213: 2635869845713977750
+    second: Regular_03_1
+  - first:
+      213: 82563150375871258
+    second: Regular_03_2
+  - first:
+      213: -2860486516359624668
+    second: Regular_03_3
+  - first:
+      213: -4478536413068947547
+    second: Regular_03_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,13 +138,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ribbon_Yellow_3Slides_0
+      name: Regular_03_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2
-        width: 188
-        height: 62
+        x: 16
+        y: 33
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +153,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c8301962754126d0800000000000000
-      internalID: -3017053917670262583
+      spriteID: dc6aaff155b9ad5d0800000000000000
+      internalID: -3036944208796932403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular_03_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 25
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69102f3c8ad749420800000000000000
+      internalID: 2635869845713977750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular_03_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13e0b17fb2552100800000000000000
+      internalID: 82563150375871258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular_03_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428079b3ba28d48d0800000000000000
+      internalID: -2860486516359624668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regular_03_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af8f515cda09d1c0800000000000000
+      internalID: -4478536413068947547
       vertices: []
       indices: 
       edges: []
@@ -161,7 +261,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ribbon_Yellow_3Slides_0: -3017053917670262583
+      Regular_03_0: -3036944208796932403
+      Regular_03_1: 2635869845713977750
+      Regular_03_2: 82563150375871258
+      Regular_03_3: -2860486516359624668
+      Regular_03_4: -4478536413068947547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
