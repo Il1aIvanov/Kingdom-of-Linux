@@ -6,7 +6,7 @@ namespace KingdomOfLinux.Characters
     public class PlayerMovement : MonoBehaviour
     {
         private static readonly int XVelocity = Animator.StringToHash("xVelocity");
-        [SerializeField] private float moveSpeed = 3f;
+        [SerializeField] private float moveSpeed = 5f;
 
         private Rigidbody2D _rb;
         private Animator _animator;
