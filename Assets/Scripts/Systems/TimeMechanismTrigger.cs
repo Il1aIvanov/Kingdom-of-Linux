@@ -4,7 +4,7 @@ using KingdomOfLinux.Controllers;
 
 public class TimeMechanismTrigger : MonoBehaviour, IInteractable
 {
-    [TextArea] public string expectedCommand = "sudo timedatectl time-zone KingdomOfLinux";
+    [TextArea] public string expectedCommand = "sudo timedatectl set-timezone KingdomOfLinux";
 
     public void Interact()
     {
